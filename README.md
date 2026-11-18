@@ -129,6 +129,8 @@ If you'd like to know more about how it was built, feel free to reach out throug
 
 ## Author
 
+Full stack development of the whole platform: the Flutter customer/staff app, the C# Admin Windows Forms Application, and the Firebasse with its realtime-database design.
+
 **Jhay Landrei B. Marcelino**: Full-Stack Software Developer (Flutter, Dart, Go, Python, C#/.NET) based in Laguna, Philippines.
 
 ---
