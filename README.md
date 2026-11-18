@@ -66,7 +66,7 @@ All three apps share the same Firebase backend, so a reading entered by staff sh
 
 | Staff Login | Customer List |
 |:---:|:---:|
-| <img src="images/staff/01-login.jpg" width="240" /> | <img src="images/staff/02-home.jpg" width="240" /> |
+| <img src="images/mobile/staff/01-login.jpg" width="240" /> | <img src="images/mobile/staff/02-home.jpg" width="240" /> |
 
 </div>
 
@@ -84,7 +84,7 @@ All three apps share the same Firebase backend, so a reading entered by staff sh
 
 | Home / Current Bill | Payment History |
 |:---:|:---:|
-| <img src="images/customer/01-home.jpg" width="240" /> | <img src="images/customer/02-payment-history.jpg" width="240" /> |
+| <img src="images/mobile/customer/01-home.jpg" width="240" /> | <img src="images/mobile/customer/02-payment-history.jpg" width="240" /> |
 
 </div>
 
